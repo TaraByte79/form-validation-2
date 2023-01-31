@@ -88,8 +88,10 @@ button:focus {
   border: 1px solid #000000;
   border-radius: 5px;
   width: 90%;
+  height: 3rem;
   margin-top: 20px;
   display: flex;
   justify-content: center;
+  align-items: center;
   color: #000000;
 }
